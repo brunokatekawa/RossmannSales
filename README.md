@@ -173,7 +173,7 @@ As observed in the matrix above:
 | `open` | `promo` | Weak |
 | `open` | `customer` | Strong |
 
-These correlations guided us on the selection of what variables to include in the model.
+These correlations guided us on the selection of which variables to include in the model. This could be translated into **more assertiveness on the predictions** which means **better budget planning** and **less wasted money**.
 
 <br>
 
