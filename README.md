@@ -194,7 +194,7 @@ As we can see, there was a great improvement compared to the previous results.
 
 ![](img/09_challenging_stores.png)
 
-As we can observe in the sample above, 
+As we can observe in the sample above, we have both **best and worst scenarios** for the total sales, so we can have a range in which we can base the budget estimations.
 
 <br>
 
