@@ -230,5 +230,6 @@ Observing the results, we can see that:
 
 ---
 
-If you're interested in reading the full detailed story and more tech-oriented, please, visit: 
+If you're interested in reading the full detailed story and more tech-oriented, please, visit:
+ 
 https://github.com/brunokatekawa/Curso_DS_Prod
