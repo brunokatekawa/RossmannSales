@@ -55,11 +55,11 @@ The user just needed to send the store number and the bot would answer the predi
 ![](img/descriptive_analysis.png)
 
 Key points:
-- The mean sales value is around US$ 5,773.82. 
+- The **mean sales** value is around **US$ 5,773.82**. 
 
-- There was a maximum of 7,388 customers in a single day.
+- There was a **maximum of 7,388 customers** in a single day.
 
-- In addition, there are competitor stores really near (20 m) from Rossmann's stores.
+- In addition, there are **competitor stores really near (20 m)** from Rossmann's stores.
 
 <br>
 
@@ -227,3 +227,7 @@ Observing the results, we can see that:
 - Experiment with selecting other features to see how much the RMSE is impacted.
 - Experiment with other hyperparameter fine-tuning strategies to see how much the RMSE is impacted.
 - Improve bot messages  and its interaction with users.
+
+---
+
+If you're interested in reading the full detailed story and more tech-oriented, please, visit: https://github.com/brunokatekawa/Curso_DS_Prod
