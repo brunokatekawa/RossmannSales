@@ -1,2 +1,4 @@
 .DS_Store
-notebooks/.ipynb_checkpoints/rossmann_store_sales_prediction-checkpoint.ipynb
+.ipynb_checkpoints/*
+model/*
+parameter/*
